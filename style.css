@@ -1,11 +1,16 @@
+body{
+    background-color: grey;
+}
+
 header{
     display: flex;
     justify-content: space-around;
+    background-color: aqua;
 }
 nav{
     display: flex;
     justify-content: center;
-
+    background-color: aqua;
 }
 
 main{
@@ -20,5 +25,6 @@ article{
     align-items: center;
     border: 2px solid black;
     border-radius: 3px;
+    background-color: aqua;
 }
 
