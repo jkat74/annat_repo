@@ -6,17 +6,20 @@ header{
     display: flex;
     justify-content: space-around;
     background-color: aqua;
+    border: 2px solid tomato;
 }
 nav{
     display: flex;
     justify-content: center;
     background-color: aqua;
+    border: 2px solid tomato;
 }
 
 main{
     display: flex;
     justify-content: center;
     gap:10px;    
+    border: 2px solid tomato;
 }
 
 article{
